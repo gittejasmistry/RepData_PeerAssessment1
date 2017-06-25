@@ -100,3 +100,4 @@ xyplot(steps ~ interval | factor(day), data = steps_interval_day, aspect = 1/2, 
 
 ```
 ![figure4](figure/figure4.png)
+ 
